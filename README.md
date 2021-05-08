@@ -11,7 +11,7 @@ contribution graph with ease**
 ## 🔸 List of Contents
 
 - [Introduction](#-introduction)
-- [Installation](#-installation)
+- [Installation](#%EF%B8%8F-installation)
 - [Commits](#-Commits)
 
 ### 🤓 Introduction
