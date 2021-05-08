@@ -12,7 +12,7 @@ contribution graph with ease**
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Commits](#frequency)
+- [Commits](#Commits)
 
 ### Introduction
 
