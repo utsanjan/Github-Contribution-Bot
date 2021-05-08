@@ -1,12 +1,8 @@
-# GitHub Contribution Bot
+# 🤖 GitHub Contribution Bot
 
-**Does your GitHub Graph looks like a noob<br>
-with a few number of Commits and Push?<br>
-Do you want to have your contribution<br>
-graph with lots of commit like pro,<br>
-then this project is at your rescue.<br>
-Manipulate your GitHub profile's<br>
-contribution graph with ease**
+**Does your GitHub Graph looks like a noob with a few number of Commits and Push? Do you want to have your contribution graph with lots of commit like pro, then this project is at your rescue. Manipulate your GitHub Contribution graph just like below...**<br>
+
+<img src="https://lh3.googleusercontent.com/-2FT1C8IRzJ0/YJaRa03WZBI/AAAAAAAAgtw/AGQiT-gQ2dwsXlWMSN7ROOk-y_Fc97T3QCLcBGAsYHQ/s16000/realistic-mode.png">
 
 ## 🤓 Introduction
 
