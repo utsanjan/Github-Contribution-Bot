@@ -33,11 +33,6 @@ Finally, run the project to see what the moment package does.
 node index.js
 ```
 
-## 📞 Contact me  
-
-For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
-[Check Out My YouTube Channel](https://www.youtube.com/DopeSatan)
-
 Voilà!!
 You can see the commit date in terminal.
 
@@ -54,3 +49,8 @@ add(days, "d");
 ```
 
 Difference of commits between timestamps. Less the value of days, more dense the contributon graph will be. Example - add(4,'d')
+
+## 📞 Contact me  
+
+For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
+[Check Out My YouTube Channel](https://www.youtube.com/DopeSatan)
