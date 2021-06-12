@@ -2,7 +2,7 @@
 
 **Does your GitHub Graph looks like a noob with a few number of Commits and Push? Do you want to have your contribution graph with lots of commit like pro, then this project is at your rescue. Manipulate your GitHub Contribution graph just like below...**<br>
 
-<img src="https://lh3.googleusercontent.com/-2FT1C8IRzJ0/YJaRa03WZBI/AAAAAAAAgtw/AGQiT-gQ2dwsXlWMSN7ROOk-y_Fc97T3QCLcBGAsYHQ/s16000/realistic-mode.png">
+<img src="https://lh3.googleusercontent.com/-tb9P3daTkpY/YMRo4INNT_I/AAAAAAAAiD4/ltoom0qwoyoMrwtGf40OcNBJJyikRtAGQCLcBGAsYHQ/s16000/download.png">
 
 ## 🤓 Introduction
 
