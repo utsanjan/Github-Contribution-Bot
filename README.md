@@ -32,7 +32,7 @@ node index.js
 Voilà!!
 You can see the commit date in terminal.
 
-## 💻 Commits
+## 💻 Commits 
 
 ```javascript
 subtract(year, "y");
