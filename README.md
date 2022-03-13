@@ -9,7 +9,7 @@
 **Does your GitHub Graph looks like a noob with a few number of Commits and Push? Do you want to have your contribution graph with lots of commit like pro, then this project is at your rescue. Manipulate your GitHub Contribution graph just like below...**<br>
 
 ## 🤓 Introduction
-
+ 
 The project uses [Moment](https://www.npmjs.com/package/moment), a JavaScript date library for parsing, validating, manipulating, and formatting dates. It allows you to make a commit on past date done by subtracting the years from given date and make commits over a period of regular days. Also you can do alot with this code.
 
 ## 🛠️ Installation
