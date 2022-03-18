@@ -6,7 +6,7 @@
 [![](https://img.shields.io/github/languages/count/utsanjan/Github-Contribution-Bot?style=plastic)](https://github.com/utsanjan/Github-Contribution-Bot/search?l=shell)‎ ‎
 [![](https://img.shields.io/github/languages/top/utsanjan/Github-Contribution-Bot?color=light%20green&style=plastic)](https://github.com/utsanjan/Github-Contribution-Bot)‎ ‎ <br>
 
-**Does your GitHub Graph looks like a noob with a few number of Commits and Push? Do you want to have your contribution graph with lots of commit like pro, then this project is at your rescue. Manipulate your GitHub Contribution graph just like below...**<br>
+**Does your GitHub Graph looks like a noob with a few number of Commits and Push? Do you want to have your contribution graph with lots of commit like pro, then this project is at your rescue. Manipulate your GitHub Contribution graph just like above.**<br>
 
 ## 🤓 Introduction
  
