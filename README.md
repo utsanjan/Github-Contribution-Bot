@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/-tb9P3daTkpY/YMRo4INNT_I/AAAAAAAAiD4/ltoom0qwoyoMrwtGf40OcNBJJyikRtAGQCLcBGAsYHQ/s16000/download.png">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZD7CjcAKjFtsVuTZLwPD4bdEA4WE3hPq9kqJfJ7AOFdy2_lWsN8TWk0sz6VljygexfhXGrMsYNjr_kog7sEyzTDCAzQiJ54I40mVgSKpeGVOPx9hQ7UYyW4qhzoXLa0SK7IScoFui8pvjES2T2EcYcXNWVOw56jJAX-WaEjDy430ZiN5gA_8IR_Q8/s16000/github-modified.png">
 
 # 🤖 GitHub Contribution Bot
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
